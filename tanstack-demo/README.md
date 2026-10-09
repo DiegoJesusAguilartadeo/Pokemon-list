@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Pokemon-list/h1>
+  <h1>Pokemon-list</h1>
   <p><b>Aplicación Web Full-Stack con Next.js App Router y TanStack Query</b></p>
 
 <p>
